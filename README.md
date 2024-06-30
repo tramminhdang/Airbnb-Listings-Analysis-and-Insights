@@ -9,4 +9,5 @@
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-Tools and Technologies: Python,Pandas,NumPy, Matplotlib and Seaborn
+
+**Tools and Technologies:** Python,Pandas,NumPy, Matplotlib and Seaborn
